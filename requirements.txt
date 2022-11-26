@@ -1,0 +1,6 @@
+os
+sys
+pillow
+numpy
+opencv-python
+subprocess
